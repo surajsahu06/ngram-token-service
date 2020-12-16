@@ -9,9 +9,9 @@
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <groupId>com.finicity.token</groupId>
-  <artifactId>token-service</artifactId>
+  <artifactId>ngram-token-service</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>token-service</name>
+  <name>ngram-token-service</name>
   <description>Demo project for Spring Boot</description>
 
   <properties>
